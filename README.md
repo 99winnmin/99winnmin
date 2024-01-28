@@ -24,24 +24,34 @@
 <br>
 <br>
 
-  <h2>Tech Stack 🛠️</h2>
-  <br/>
-    <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a> 
-    <img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge&logo=Databricks&logoColor=black"/></a>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a><br/>
-    <br/>
-  <br/>
-<br/>
-<br/>
-<br/>
-<!--6번째줄-->
-<h2>Etc.</h2>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=for-the-badge&logo=IntelliJ IDEA&logoColor=EF2D5E"/></a>
-  <img src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white"/></a>
-  <img src ="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=Figma&logoColor=white" />
-  <br/>
-<br>
-<br>
+### 📚 Skills
+- **Backend Application**
+  
+    🌱 **Spring Boot**    
+    - `Spring Boot`, `Spring Security`, `Spring Batch`
+    - `Data JPA`, `QueryDSL`, `JPQL`, `Data Redis`
+    - `WebSocket STOMP`, `OpenFeign`, `Logback`
+    - `GCP`, `Firebase`
+  
+      
+    ⚙️ **Infra Experience**
+    - `EC2`, `CodeDeploy`, `ALB`, `ElasticBeanstalk`
+    - `RDS`, `ElasticCache` `S3`, `Cloud Watch`, `CloudFront`
+    - `AWS Cetificate Manager`, `Route53`
+    - `OAuth2.0`, `OIDC`, `FCM`
+ 
+    📖 **Study & Interest**
+    - [가상 면접 사례로 배우는 대규모 시스템 설계 기초
+](https://www.yes24.com/Product/Goods/102819435)
+    - [코틀린 코루틴](https://www.yes24.com/Product/Goods/123034354)
+    - [이펙티브 코틀린](https://www.yes24.com/Product/Goods/106225986)
+    
+- **Programming Language**: <img src="https://img.shields.io/badge/Java-339933?style=flat&logo=Java&logoColor=white"/>(💪) <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=white"/>
+
+- **Etc** : <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-1E1E1E?style=flat&logo=Notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Figma-00D8E0?style=flat&logo=Figma&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=Sentry&logoColor=white"/></a>
 
 </div>
