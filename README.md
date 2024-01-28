@@ -1,7 +1,11 @@
 <div> 
   
 ### 💁‍♀️ Introduction
-안녕하세요! **신입 Backend 개발자 유승민**입니다.
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:ojysep9987@gmail.com"/> 
+<a href="https://www.instagram.com/99winnmin/"> <img src="https://img.shields.io/badge/instagram-5333ED?style=flat&logo=instagram&logoColor=white"/></a>
+ 
+
+안녕하세요! **신입 Backend 개발자 유승민**입니다. 
 - 모든 선택에는 100% 정답이라는 것은 없다고 생각하여 **질문하는 것에 적극적**입니다.
 - 모르는 것이 있다면 **주도적으로 학습하기 위해** 리서치를 즐기고 스터디 참여에 적극적입니다.
 - **다양한 의견을 수용하고 관점을 넓히는 능력을 기르기 위해** 사이드 프로젝트, 동아리, 인턴쉽, 스터디 등 외부 활동에 참여했습니다.
