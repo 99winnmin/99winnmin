@@ -9,19 +9,17 @@
 
 <br>
 
-
 ### 💻 Work & Activities
 - 🚗 HMG SOFTEER BOOTCAMP - Backend Course (`2024.01-2024.02`)
 - 🧑🏻‍💻 자바카페 커뮤니티 스터디 (`2023.09.21 - ing~`)
 - 🎖️ 숭실대학교 소프트웨어공모전 총장상 (`2023.09.23`)
 - 🙎‍♂️ (주)블록웨이브랩스 Backend & Smart Contract developer (`2023.01-2023.10`)
 - 🛠️ Central MakeUs Challenge 13th 💻 as a developer (Backend) (`2023.06-2023.09`)
-- 제 5회 국민은행 소프트웨어 공모전 장려상 (`2022.11.05`)
-- 숭실대학교 소프트웨어공모전 은상 (`2022.09.16`)
+- 🥉 제 5회 국민은행 소프트웨어 공모전 장려상 (`2022.11.05`)
+- 🏆 숭실대학교 소프트웨어공모전 은상 (`2022.09.16`)
 - 🦁 LikeLion SSU 10th 💻 as a developer (Backend) (`2022.03-2022.12`)
 - 🏫 Soongsil University (SSU) School of Software (`2018.03 ~ 2024.08(예정)`)
 
-<br>
 <br>
 
 ### 📚 Skills
