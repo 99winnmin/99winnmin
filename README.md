@@ -13,6 +13,7 @@
 <br>
 
 ### 💻 Work & Activities
+- 💵 Toss Securities - Backend Assistant (`2024.05-2024.02`)
 - 🚗 HMG SOFTEER BOOTCAMP - Backend Course (`2024.01-2024.02`)
 - 🧑🏻‍💻 자바카페 커뮤니티 스터디 (`2023.09.21 - ing~`)
 - 🎖️ 숭실대학교 소프트웨어공모전 총장상 (`2023.09.23`)
@@ -25,34 +26,14 @@
 
 <br>
 
-### 📚 Skills
-- **Backend Application**
-  
-    🌱 **Spring Boot**    
-    - `Spring Boot`, `Spring Security`, `Spring Batch`
-    - `Data JPA`, `QueryDSL`, `JPQL`, `Data Redis`
-    - `WebSocket STOMP`, `OpenFeign`, `Logback`
-    - `GCP`, `Firebase`
-  
-      
-    ⚙️ **Infra Experience**
-    - `EC2`, `CodeDeploy`, `ALB`, `ElasticBeanstalk`
-    - `RDS`, `ElasticCache` `S3`, `Cloud Watch`, `CloudFront`
-    - `AWS Cetificate Manager`, `Route53`
-    - `OAuth2.0`, `OIDC`, `FCM`
  
-    📖 **Study & Interest**
+📖 **Study & Interest** <br>
     - [가상 면접 사례로 배우는 대규모 시스템 설계 기초
-](https://www.yes24.com/Product/Goods/102819435)
-    - [코틀린 코루틴](https://www.yes24.com/Product/Goods/123034354)
-    - [이펙티브 코틀린](https://www.yes24.com/Product/Goods/106225986)
+](https://github.com/JAVACAFE-STUDY/2024-large-scale-system-design-study) <br>
+    - [코틀린 코루틴](https://github.com/JAVACAFE-STUDY/coroutine-2023) <br>
+    - [이펙티브 코틀린](https://github.com/JAVACAFE-STUDY/effective-kotlin-2024) <br>
     
 - **Programming Language**: <img src="https://img.shields.io/badge/Java-339933?style=flat&logo=Java&logoColor=white"/>(💪) <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1572B6?style=flat&logo=python&logoColor=white"/>
 
-- **Etc** : <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-1E1E1E?style=flat&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-00D8E0?style=flat&logo=Figma&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=Sentry&logoColor=white"/></a>
 
 </div>
