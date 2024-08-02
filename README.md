@@ -13,7 +13,7 @@
 <br>
 
 ### 💻 Work & Activities
-- 💵 Toss Securities - Backend Assistant (`2024.05-2024.02`)
+- 💵 Toss Securities - Backend Assistant (`2024.05-2024.~`)
 - 🚗 HMG SOFTEER BOOTCAMP - Backend Course (`2024.01-2024.02`)
 - 🧑🏻‍💻 자바카페 커뮤니티 스터디 (`2023.09.21 - ing~`)
 - 🎖️ 숭실대학교 소프트웨어공모전 총장상 (`2023.09.23`)
